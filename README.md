@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Architect, Data Engineer, Data Science Specialist
 
 #### Technical Skills: Python, R, Spss, C++, JS, SQL, AWS, Azure
 
