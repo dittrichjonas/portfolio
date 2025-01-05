@@ -20,14 +20,14 @@ B.S., Business Information Systems | FOM University of Applied Sciences (_Septem
 
 Projekt Description
 
-![Image](/assets/img/eeg_band_discovery.jpeg)
+![Image](/assets/img/pexels-goumbik-669619.jpg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Link](https://google.de)
 
 Projekt Description
 
-![Image](/assets/img/bike_study.jpeg)
+![Image](/assets/img/pexels-goumbik-669619.jpg)
 
 
 ## Publications
